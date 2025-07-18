@@ -1,4 +1,4 @@
-# SuperDAO: AI-Driven DAO Governance System: High-Level Project Overview
+# AI-Driven DAO Governance System: High-Level Project Overview
 
 This project outlines an AI-enhanced Decentralized Autonomous Organization (DAO) governance system that integrates blockchain technology with advanced AI models (specifically Transformer architectures). The system is designed to facilitate intelligent, transparent, and efficient decision-making within a DAO.
 
